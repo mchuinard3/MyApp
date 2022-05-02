@@ -1,0 +1,15 @@
+/Users/mchuinard3/MyApp/bin/Debug/net6.0/MyApp
+/Users/mchuinard3/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/mchuinard3/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/mchuinard3/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/mchuinard3/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/mchuinard3/MyApp/obj/Debug/net6.0/ref/MyApp.dll
